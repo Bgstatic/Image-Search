@@ -2,7 +2,7 @@
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https:///Bgstatic.github.io/ImageSearch",
+  "homepage": "https:///Bgstatic.github.io/Image-Search",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
