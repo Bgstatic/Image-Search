@@ -6,4 +6,4 @@ A simple image search engine made with **React.js - Axios - POSTMAN.**
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[](https://github.com/Bgstatic/Image-Search/readme.png)
+[](https://github.com/Bgstatic/Image-Search/blob/master/readme.png)
