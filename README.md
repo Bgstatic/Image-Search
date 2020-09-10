@@ -1,4 +1,4 @@
-# ImageSearch
+# ReactJS-ImageSearch
 
 A simple image search engine made with **React.js - Axios - POSTMAN.** 
 
